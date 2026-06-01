@@ -36,4 +36,12 @@ The project focused on network segmentation, scalability, security, and seamless
 
 Successfully verified end-to-end connectivity using ping tests between devices in different VLANs and wireless networks.
 
+## Network Topology
+
+![Network Topology](Network_Topology.png)
+
+## Connectivity Verification
+
+![Ping Test Result](Ping_Test_Result.png)
+
 
